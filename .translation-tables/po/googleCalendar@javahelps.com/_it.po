@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-18 08:52-0400\n"
+"PO-Revision-Date: 2019-10-21 20:06+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: desklet.js:227
+msgid "No events found"
+msgstr ""
+
+#: desklet.js:376
+msgid "gcalendar is not authorized"
+msgstr ""
+
+#: desklet.js:378
+msgid "gcalendar token expired"
+msgstr ""
+
+#: desklet.js:383
+msgid "Execute: "
+msgstr ""
+
+#: desklet.js:396
+msgid "Unknown Error"
+msgstr ""
+
+#: desklet.js:399
+msgid "Install gcalendar to use this desklet."
+msgstr ""
+
+#: desklet.js:400
+msgid "Visit: "
+msgstr ""
+
+#: lib/xdate.js:346
+msgctxt "long"
+msgid "May"
+msgstr ""
+
+#: lib/xdate.js:347
+msgctxt "short"
+msgid "May"
+msgstr ""
+
+#. settings-schema.json->gcalendarAccount->description
+msgid "gcalendar Account ID"
+msgstr ""
+
+#. settings-schema.json->gcalendarAccount->tooltip
+msgid "Enter gcalendar --account id"
+msgstr ""
+
+#. settings-schema.json->allNamesButton->description
+msgid "Fill in the list bellow with the names of all my calendars"
+msgstr ""
+
+#. settings-schema.json->allNamesButton->tooltip
+msgid ""
+"Click to fill in the list bellow with the names of all your calendars. It "
+"may take a little while."
+msgstr ""
+
+#. settings-schema.json->calendarNames->description
+msgid "Display these calendars:"
+msgstr ""
+
+#. settings-schema.json->calendarNames->tooltip
+msgid "If you want to diplay a calendar, set it to TRUE (or check its box)."
+msgstr ""
+
+#. settings-schema.json->calendarNames->columns->title
+msgid "Calendar"
+msgstr ""
+
+#. settings-schema.json->calendarNames->columns->title
+msgid "Display it?"
+msgstr ""

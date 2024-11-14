@@ -1,0 +1,74 @@
+# YET ANOTHER RSS READER
+# This file is put in the public domain.
+# jtoberling, 2023
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yarr@jtoberling 1.2.0\n"
+"Report-Msgid-Bugs-To: https://github.com/linuxmint/cinnamon-spices-desklets/"
+"issues\n"
+"POT-Creation-Date: 2024-11-11 09:04-0500\n"
+"PO-Revision-Date: 2024-07-23 23:09+0200\n"
+"Last-Translator: qadzek\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. settings-schema.json->alternateRowTransparency->description
+msgid "Dim of every second rows"
+msgstr ""
+
+#. settings-schema.json->alternateRowTransparency->tooltip
+msgid "The higher the value, more dim on alternate row backgrounds."
+msgstr ""
+
+#. settings-schema.json->ai_url->description
+msgid "URL of Completion Api"
+msgstr ""
+
+#. settings-schema.json->ai_url->tooltip
+msgid "https://api.openai.com/v1/chat/completions"
+msgstr ""
+
+#. settings-schema.json->ai_use_standard_model->description
+msgid "Use standard AI models."
+msgstr ""
+
+#. settings-schema.json->ai_use_standard_model->tooltip
+msgid "Set to custom to type your model name"
+msgstr ""
+
+#. settings-schema.json->ai_use_standard_model->options
+msgid "Use standard"
+msgstr ""
+
+#. settings-schema.json->ai_use_standard_model->options
+msgid "Use custom"
+msgstr ""
+
+#. settings-schema.json->ai_model->description
+msgid "Standard model to use"
+msgstr ""
+
+#. settings-schema.json->ai_model->options
+msgid "gpt-4o"
+msgstr ""
+
+#. settings-schema.json->ai_model->options
+msgid "gpt-4o-mini"
+msgstr ""
+
+#. settings-schema.json->ai_model->options
+#. settings-schema.json->ai_custom_model->tooltip
+msgid "deepseek-coder"
+msgstr ""
+
+#. settings-schema.json->ai_model->options
+msgid "deepseek-coder-v2:latest"
+msgstr ""
+
+#. settings-schema.json->ai_custom_model->description
+msgid "Provide model name to use"
+msgstr ""
